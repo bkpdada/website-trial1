@@ -1,0 +1,161 @@
+
+
+.navbar {
+  padding: 2rem 3rem 2rem 5rem;
+  font-size: 22px;
+  font-weight: bold;
+  font-family: 'Bebas Neue', cursive;
+}
+
+.navbar-brand {
+  font-size: 22px;
+  font-weight: bold;
+  font-family: 'Bebas Neue', cursive;
+}
+
+.dropdown-menu {
+  margin: 0 0 0 0;
+  border-radius: 40px;
+  padding: 0 0 0 0;
+}
+
+.dropdown-menu:hover {
+  display: block;
+}
+
+.dropdown-item {
+  margin: 0 0 0 0;
+  font-size: 22px;
+  font-weight: bold;
+  font-family: 'Bebas Neue', cursive;
+  background-color: #fafafa;
+  text-align: center;
+  width: 12rem;
+}
+
+.dropdown-item:hover {
+  background-color: #e3e3e3;
+}
+
+.faq-btn {
+  margin: 0 0 0 0;
+  border-radius: 40px 40px 0 0;
+  padding: 3rem 3rem 1.5rem 3rem;
+}
+
+.blog-btn {
+  margin: 0 0 0 0;
+  border-radius:  0 0 40px 40px;
+  padding: 1.5rem 3rem 3rem 3rem;
+}
+
+.join-us-nav {
+  visibility: hidden;
+}
+
+.scrolled {
+  visibility: visible;
+  margin: 0 2rem 0 0;
+  padding: 0.5rem 2rem 0.5rem 2rem;
+}
+
+.container-1 {
+  /* background-color: #fafafa; */
+}
+
+.container-1 h1 {
+    padding: 7rem 5rem 0 5rem;
+}
+
+.container-1 p {
+  padding: 0.5rem 10rem 1rem 10rem;
+}
+
+.join-us{
+  padding: 0.5rem 6rem 1rem 10rem;
+}
+
+.container-1 a {
+  padding: 1rem 4rem;
+}
+
+.container-3 {
+  padding: 5rem 10rem 2rem 10rem;
+}
+
+.container-3 h1 {
+  padding: 0 0 4rem 0;
+}
+
+.container-4 {
+  background-color: #fafafa;
+  padding: 4rem 10rem 2rem 10rem;
+}
+
+.container-4 h1{
+  text-align: center;
+  padding: 0 0 4rem 0;
+}
+
+.product-cards .card-1{
+}
+
+.container-5 {
+  padding: 4rem 10rem 2rem 10rem;
+}
+
+.container-5 h1 {
+  text-align: center;
+  padding: 0 0 2rem 0;
+}
+
+.container-6 {
+  background-color: #fafafa;
+  padding: 4rem 0 2rem 0;
+}
+
+.container-6 h1 {
+  text-align: center;
+  padding: 0 0 2rem 0;
+}
+
+.container-6 p{
+  text-align: center;
+  padding: 0 17rem 2rem 17rem;
+}
+
+.container-7 {
+  padding: 4rem 10rem 2rem 10rem;
+}
+
+.container-7 h1{
+  text-align: center;
+  padding: 0 0 2rem 0;
+}
+
+.form-group {
+  padding: 0 2rem 2rem 2rem
+}
+
+.container-8{
+  background-color: #fafafa;
+  padding: 4rem 10rem 2rem 10rem;
+}
+
+.container-8 h1{
+  text-align: center;
+  padding: 0 0 2rem 0;
+}
+
+.fa-facebook-official, .fa-twitter-square, .fa-instagram, .fa-linkedin-square {
+  padding: 1rem;
+}
+
+.fa-address-book, .fa-phone-square, .fa-envelope {
+  padding: 0 1rem 0 0;
+}
+
+footer {
+  background-color: #fafafa;
+  padding: 1rem 10rem 1rem 10rem;
+}
